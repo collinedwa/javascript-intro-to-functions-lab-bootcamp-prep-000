@@ -18,4 +18,8 @@ function sayHiToGrandma(string){
   return string
 }
 
-sayHiToGrandma(string.toLowerCase())
+sayHiToGrandma(whisper)
+
+sayHiToGrandma(shout)
+
+

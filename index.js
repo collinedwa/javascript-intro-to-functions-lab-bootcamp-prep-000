@@ -27,4 +27,4 @@ sayHiToGrandma(string.toLowerCase)
 
 sayHiToGrandma(string.toUpperCase)
 
-sayHiToGrandma()
+sayHiToGrandma(string)

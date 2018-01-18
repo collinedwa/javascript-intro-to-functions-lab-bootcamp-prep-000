@@ -21,5 +21,3 @@ function sayHiToGrandma(string){
 sayHiToGrandma(whisper)
 
 sayHiToGrandma(shout)
-
-
